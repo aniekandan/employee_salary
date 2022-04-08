@@ -1,0 +1,12 @@
+Jakob,Customer Service,35000
+Clement,Manager,70000
+Martha,Marketer,40000
+Gabriel,Assistant Manager,63000
+Mistry,Supervisor,47000
+Ameera,Customer Service,37000
+Ahmad,Security,20000
+Fischer,Security,25000
+Yusuf,Cleaner,15000
+Maryam,Salesperson,39000
+Samantha,Cleaner,15000
+Carly,Marketer,43000
